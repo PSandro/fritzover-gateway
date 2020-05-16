@@ -17,6 +17,7 @@ Edit the default values in the script or use env-variables.
 | `FAILOVER_GATEWAY` | gateway to use if fritzbox fails |
 | `FO_INTERFACE` | interface used within the fritzbox LAN |
 | `FRITZBOX_PASSWORD` | password used to log into fritzbox's web-interface |
+
 License
 ----
 
